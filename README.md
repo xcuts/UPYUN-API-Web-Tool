@@ -1,7 +1,7 @@
 # UPYUN-API-Web-Tool
 
 ### 在线工具地址
-<a href="http://uptool.tingfun.net" target="blank">http://uptool.tingfun.net</a>
+<a href="https://uptool.tingfun.net" target="blank">https://uptool.tingfun.net</a>
 
 ### 实现原理
 * 操作界面使用 Metro UI 部分风格和样式，参数处理和文件上传使用ajax
@@ -27,6 +27,7 @@
 
 ### 优化更新
 1. 增加图片及音视频预览功能(2016-11-4)
+2. 全链路ssl(除异步云处理)(2016-11-8）
 
 
 
